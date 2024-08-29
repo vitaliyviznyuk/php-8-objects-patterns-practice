@@ -8,4 +8,5 @@ class ShopProduct
 {
     // class body
 }
+
 /* /listing 03.01 */
