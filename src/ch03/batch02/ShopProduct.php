@@ -6,9 +6,10 @@ namespace popp\ch03\batch02;
 
 class ShopProduct
 {
-    public $title = "default product";
-    public $producerMainName = "main name";
-    public $producerFirstName = "first name";
-    public $price = 0;
+    public string $title = "default product";
+    public string $producerMainName = "main name";
+    public string $producerFirstName = "first name";
+    public float $price = 0;
 }
+
 /* /listing 03.04 */
